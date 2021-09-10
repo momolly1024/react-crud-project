@@ -262,23 +262,17 @@ h6{
 .weightPage {
     margin-top: 1rem;
     text-align: center;
-    /* border: 1px solid black; */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     height:25vh;
     overflow: hidden;
-    /* padding: 1rem; */
     width: 560px;
-    /* min-width: 400px; */
-    /* max-height: 600px; */
     overflow: hidden;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
     background-color: #58657e7c;
     border-radius: 0.25rem;
-    /* margin: auto 0; */
-/*  */
 }
 
 .formSend{
